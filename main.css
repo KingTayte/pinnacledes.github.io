@@ -1,0 +1,50 @@
+body{
+    margin: 0;
+}
+
+.topbar{
+    border-style: solid;
+    border-color: black;
+    padding: 50px;
+}
+
+.section1{
+    border-style: solid;
+    border-color: black;
+    padding: 150px;
+}
+
+h1{
+    text-align: center;
+}
+
+.service1{
+    border-style: solid;
+}
+
+.service2{
+    border-style: solid;
+}
+
+
+
+.service3{
+    border-style: solid;
+}
+
+.service4{
+    border-style: solid;
+}
+
+.paragraph_left{
+    float: left;
+}
+
+.paragraph_right{
+    float: right;
+}
+
+footer{
+    border-style: dotted;
+    text-align: center;
+}
